@@ -4,6 +4,13 @@ Do your plans never seem to leave the group chat?
 
 Nomly is a multiplayer dinner picker. A host describes the night with the constraints that everyone has, friends join a room, everyone swipes the same restaurants in private, and a Python matching engine ranks the places the group actually agrees on.
 
+## 📊 Product Pitch & Strategy
+
+* **Pitch Deck:** [View Interactive Prezi Presentation](https://prezi.com/craft/room/jMp6ttf6s3qBnvAnSiFpuN)
+
+### My Role & Contributions
+* **Product Strategy & Messaging:** Led product positioning and value proposition development during the 24-hour sprint.
+* **Pitch Deck Design & Delivery:** Designed and structured the interactive Prezi presentation and delivered the final pitch to judges, communicating product features and business impact clearly.
 ## Problem
 
 Groups get stuck debating restaurants. One person likes the idea, someone else has a constraint, and the thread never ends.
